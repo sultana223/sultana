@@ -1,0 +1,67 @@
+*{
+    font-family:'Fira Sans', sans-serif;
+}
+ 
+ 
+body
+    {background-image:url(developer-portfolio/top-banner.png);
+     background-repeat: no-repeat; 
+}
+.header{
+    width: 40%;
+    margin-left:5%;
+    padding-left:2%;
+    float: left;
+}
+.header h1{
+    font-size: 45px;
+}
+
+.header p{
+        color: gray;
+        font-size: 20px;
+}
+
+.header img{
+    width:100%;
+       }
+
+.btn{
+   border-radius: 10px;
+   padding:10px 20px;
+   font-weight: bold;
+   text-decoration: none;
+   background-color: orangered;
+   border-color: orangered;
+   font-size: 16px;
+   }
+.big img{
+     background-image: url(developer-portfolio/dream-bg.png);
+    background-repeat: no-repeat;
+    position:fixed;
+    right: 0;
+     }
+.middle{   
+    width: 40%;
+    margin-left:5%;
+    padding-left:2%;
+    float: left;
+}
+.middle h1{
+    font-size: 45px;
+}
+
+.middle p{
+        color:gray;
+        font-size: 20px;
+        margin-right: 20px; 
+}
+ 
+.red
+{
+    display: inline;
+    
+     border: 1px solid seagreen;
+  
+    float: left;
+}
